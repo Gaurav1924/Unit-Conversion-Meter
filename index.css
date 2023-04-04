@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+}
+
+.main {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.section {
+    background: white;
+    padding: 5px;
+}
+.section h3 {
+    color: #5A537B
+}
+button {
+    border-radius: 5px ;
+    padding:2px 15px 
+}
